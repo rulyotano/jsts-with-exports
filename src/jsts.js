@@ -14,6 +14,7 @@ import * as operation from './org/locationtech/jts/operation'
 import * as precision from './org/locationtech/jts/precision'
 import * as simplify from './org/locationtech/jts/simplify'
 import * as triangulate from './org/locationtech/jts/triangulate'
+import * as java from './java/java'
 
 import './org/locationtech/jts/monkey'
 
@@ -31,5 +32,6 @@ export {
   operation,
   precision,
   simplify,
-  triangulate
+  triangulate,
+  java
 }

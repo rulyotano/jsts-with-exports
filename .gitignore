@@ -1,3 +1,4 @@
 *.ast
 node_modules
 doc/jsts.js
+/.idea
